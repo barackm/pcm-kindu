@@ -19,17 +19,17 @@ class Footer extends Component {
               </div>
               <ul className="ftco-footer-social list-unstyled float-md-left float-lft ">
                 <li className="">
-                  <a href="#">
+                  <a href="#1">
                     <span className="icon-twitter"></span>
                   </a>
                 </li>
                 <li className="">
-                  <a href="#">
+                  <a href="#1">
                     <span className="icon-facebook"></span>
                   </a>
                 </li>
                 <li className="">
-                  <a href="#">
+                  <a href="#1">
                     <span className="icon-instagram"></span>
                   </a>
                 </li>
@@ -40,27 +40,27 @@ class Footer extends Component {
                 <h2 className="ftco-heading-2">Quick Links</h2>
                 <ul className="list-unstyled">
                   <li>
-                    <a href="#" className="py-2 d-block">
+                    <a href="#1" className="py-2 d-block">
                       About
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="py-2 d-block">
+                    <a href="#1" className="py-2 d-block">
                       Features
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="py-2 d-block">
+                    <a href="#1" className="py-2 d-block">
                       Projects
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="py-2 d-block">
+                    <a href="#1" className="py-2 d-block">
                       Blog
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="py-2 d-block">
+                    <a href="#1" className="py-2 d-block">
                       Contact
                     </a>
                   </li>
@@ -72,29 +72,31 @@ class Footer extends Component {
                 <h2 className="ftco-heading-2">Recent Blog</h2>
                 <div className="block-21 mb-4 d-flex">
                   <a
-                  href="#"
+                  href="#1"
                     className="blog-img mr-4"
                     style={{ backgroundImage: `url(${img1})` }}
-                  ></a>
+                  >
+                    {}
+                  </a>
                   <div className="text">
                     <h3 className="heading">
-                      <a href="#">
+                      <a href="#1">
                       Même le pointage tout-puissant n'a aucun contrôle sur
                       </a>
                     </h3>
                     <div className="meta">
                       <div>
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-calendar"></span> Sept 15, 2018
                         </a>
                       </div>
                       <div>
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-person"></span> Admin
                         </a>
                       </div>
                       <div>
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-chat"></span> 19
                         </a>
                       </div>
@@ -103,28 +105,29 @@ class Footer extends Component {
                 </div>
                 <div className="block-21 mb-4 d-flex">
                   <a
+                  href="#1"
                     className="blog-img mr-4"
                     style={{ backgroundImage: `url(${img2})` }}
-                  ></a>
+    >{}</a>
                   <div className="text">
                     <h3 className="heading">
-                      <a href="#">
+                      <a href="#1">
                       Même le pointage tout-puissant n'a aucun contrôle sur
                       </a>
                     </h3>
                     <div className="meta">
                       <div>
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-calendar"></span> Sept 15, 2018
                         </a>
                       </div>
                       <div>
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-person"></span> Admin
                         </a>
                       </div>
                       <div>
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-chat"></span> 19
                         </a>
                       </div>
@@ -146,13 +149,13 @@ class Footer extends Component {
                       </span>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="#1">
                         <span className="icon icon-phone"></span>
                         <span className="text"> +243(0) 853566856 <br/> 994247596 <br/> 853932086 </span>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="#1">
                         <span className="icon icon-envelope"></span>
                         <span className="text"> pcmkisangani1@gmail.com</span>
                       </a>
@@ -167,7 +170,7 @@ class Footer extends Component {
               Copyright &copy;
               <script>document.write(new Date().getFullYear());</script> All
               rights reserved |{" "}
-              <a href="https://fidbagraphics.com" target="_blank">
+              <a href="https://fidbagraphics.com" target="blank">
                 Fidba Graphics
               </a>
             </div>

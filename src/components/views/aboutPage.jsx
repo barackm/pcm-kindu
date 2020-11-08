@@ -7,7 +7,6 @@ import img2 from "../../images/about.jpg";
 import img3 from "../../images/about-2.jpg";
 import img4 from "../../images/person_1.jpg";
 import img5 from "../../images/person_2.jpg";
-import img6 from "../../images/person_3.jpg";
 import Newspaper from "../newspaper";
 
 class AboutPage extends Component {

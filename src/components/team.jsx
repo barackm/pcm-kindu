@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import img1 from "../photos/img29.jpeg";
 import img2 from "../photos/img29.jpeg";
 import img3 from "../photos/img29.jpeg";
-import img4 from "../photos/img29.jpeg";
 
 class Team extends Component {
   state = {};
@@ -39,22 +38,22 @@ class Team extends Component {
                     </p>
                     <ul className="ftco-social">
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-twitter"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-facebook"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-instagram"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-google-plus"></span>
                         </a>
                       </li>
@@ -81,22 +80,22 @@ class Team extends Component {
                     </p>
                     <ul className="ftco-social">
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-twitter"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-facebook"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-instagram"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-google-plus"></span>
                         </a>
                       </li>
@@ -123,22 +122,22 @@ class Team extends Component {
                     </p>
                     <ul className="ftco-social">
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-twitter"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-facebook"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-instagram"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-google-plus"></span>
                         </a>
                       </li>
@@ -165,22 +164,22 @@ class Team extends Component {
                     </p>
                     <ul className="ftco-social">
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-twitter"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-facebook"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-instagram"></span>
                         </a>
                       </li>
                       <li className="">
-                        <a href="#">
+                        <a href="#1">
                           <span className="icon-google-plus"></span>
                         </a>
                       </li>

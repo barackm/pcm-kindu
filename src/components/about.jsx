@@ -19,17 +19,12 @@ class About extends Component {
                     <div
                       className="nav  nav-pills"
                       id="v-pills-tab"
-                      role="tablist"
-                      aria-orientation="vertical"
                     >
                       <a
                         className="nav-link active"
                         id="v-pills-whatwedo-tab"
-                        data-toggle="pill"
                         href="#v-pills-whatwedo"
-                        role="tab"
-                        aria-controls="v-pills-whatwedo"
-                        aria-selected="true"
+                        
                       >
                         Localisation
                       </a>
@@ -37,11 +32,9 @@ class About extends Component {
                       <a
                         className="nav-link"
                         id="v-pills-mission-tab"
-                        data-toggle="pill"
+                       
                         href="#v-pills-mission"
-                        role="tab"
-                        aria-controls="v-pills-mission"
-                        aria-selected="false"
+                     
                       >
                         Developpement et croissance
                       </a>
@@ -49,11 +42,7 @@ class About extends Component {
                       <a
                         className="nav-link"
                         id="v-pills-goal-tab"
-                        data-toggle="pill"
                         href="#v-pills-goal"
-                        role="tab"
-                        aria-controls="v-pills-goal"
-                        aria-selected="false"
                       >
                         Partenariats
                       </a>
@@ -64,8 +53,6 @@ class About extends Component {
                       <div
                         className="tab-pane fade show active"
                         id="v-pills-whatwedo"
-                        role="tabpanel"
-                        aria-labelledby="v-pills-whatwedo-tab"
                       >
                         <div>
                           <h2 className="mb-4">Nous sommes localises</h2>
@@ -87,8 +74,6 @@ class About extends Component {
                       <div
                         className="tab-pane fade"
                         id="v-pills-mission"
-                        role="tabpanel"
-                        aria-labelledby="v-pills-mission-tab"
                       >
                         <div>
                           <h2 className="mb-4">To Accomodate All Patients</h2>

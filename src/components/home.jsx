@@ -14,12 +14,11 @@ class Home extends Component {
             <div className="container">
               <div
                 className="row slider-text align-items-center"
-                dataScrollaxParent={true}
+               
               >
                 <div
                   className="col-md-6 col-sm-12 hiro-text"
-                  //   dataScrollax=" properties: { translateY: '70%' }"
-                  dataScrollax={{ properties: { translateY: "70%" } }}
+                  
                 >
                   <h1
                     className="mb-4 main-text-hero"
@@ -34,7 +33,7 @@ class Home extends Component {
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa odio aliquam incidunt natus nisi eius, dignissimos assumenda vitae similique facilis!
                   </p>
                   <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">
-                    <a href="#" className="btn btn-primary px-4 py-3">
+                    <a href="#1" className="btn btn-primary px-4 py-3">
                       Faire une Suggestion
                     </a>
                   </p>

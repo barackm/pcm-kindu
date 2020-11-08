@@ -81,18 +81,19 @@ class Galery extends Component {
       },
     ];
     return (
-      <section class="ftco-gallery">
-        <div class="container-wrap">
-          <div class="row no-gutters">
+      <section className="ftco-gallery">
+        <div className="container-wrap">
+          <div className="row no-gutters">
             {photos.map((item) => (
-              <div class="col-md-3 " key={item.id}>
+              <div className="col-md-3 " key={item.id}>
                 <a
+                 href="#1"
                   // href={`${item.img}`}
-                  class="gallery img d-flex align-items-center"
+                  className="gallery img d-flex align-items-center"
                   style={{ backgroundImage: `url(${item.img})` }}
                 >
-                  <div class="icon mb-4 d-flex align-items-center justify-content-center">
-                    <span class="icon-search"></span>
+                  <div className="icon mb-4 d-flex align-items-center justify-content-center">
+                    <span className="icon-search"></span>
                   </div>
                 </a>
               </div>

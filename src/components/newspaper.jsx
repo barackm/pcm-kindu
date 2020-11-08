@@ -35,7 +35,7 @@ class Newspaper extends Component {
                   </ul>
                   <p className="button text-center">
                     <a
-                      href="#"
+                      href="#1"
                       className="btn btn-primary btn-outline-primary px-4 py-3"
                     >
                       Order now
@@ -61,7 +61,7 @@ class Newspaper extends Component {
                   </ul>
                   <p className="button text-center">
                     <a
-                      href="#"
+                      href="#1"
                       className="btn btn-primary btn-outline-primary px-4 py-3"
                     >
                       Order now
@@ -87,7 +87,7 @@ class Newspaper extends Component {
                   </ul>
                   <p className="button text-center">
                     <a
-                      href="#"
+                      href="#1"
                       className="btn btn-primary btn-outline-primary px-4 py-3"
                     >
                       Order now
@@ -113,7 +113,7 @@ class Newspaper extends Component {
                   </ul>
                   <p className="button text-center">
                     <a
-                      href="#"
+                      href="#1"
                       className="btn btn-primary btn-outline-primary px-4 py-3"
                     >
                       Order now
