@@ -19,12 +19,18 @@ class About extends Component {
                     <div
                       className="nav  nav-pills"
                       id="v-pills-tab"
+                      role="tablist"
+                  aria-orientation="vertical"
                     >
                       <a
                         className="nav-link active"
                         id="v-pills-whatwedo-tab"
                         href="#v-pills-whatwedo"
-                        
+                        data-toggle="pill"
+                        href="#v-pills-whatwedo"
+                        role="tab"
+                        aria-controls="v-pills-whatwedo"
+                        aria-selected="true"
                       >
                         Localisation
                       </a>
@@ -34,7 +40,11 @@ class About extends Component {
                         id="v-pills-mission-tab"
                        
                         href="#v-pills-mission"
-                     
+                        data-toggle="pill"
+                        href="#v-pills-mission"
+                        role="tab"
+                        aria-controls="v-pills-mission"
+                        aria-selected="false"
                       >
                         Developpement et croissance
                       </a>
@@ -43,6 +53,11 @@ class About extends Component {
                         className="nav-link"
                         id="v-pills-goal-tab"
                         href="#v-pills-goal"
+                        data-toggle="pill"
+                   
+                    role="tab"
+                    aria-controls="v-pills-goal"
+                    aria-selected="false"
                       >
                         Partenariats
                       </a>
